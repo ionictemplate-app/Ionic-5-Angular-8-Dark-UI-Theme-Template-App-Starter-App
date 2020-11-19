@@ -215,7 +215,7 @@ Ionic 5 / Angular 8 Dark UI Theme / Template App | Starter App It Builds with An
     It's so easy, just replace the data source of custom components to use the template.</p>
 
 <h2><strong>Version History</strong></h2>
-<p>Version 1.0.0 (10-12-2019)</p>
+<p>Version 1.1.0 (10-12-2019)</p>
 <pre>
 - Add: Init Release
 </pre>
